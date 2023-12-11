@@ -1,0 +1,45 @@
+🤖 Greetings, human...
+🤖 Welcome to the CS5002 Chat Bot! 👋
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+
+
+HELP:
+
+
+This program is the CS5002 Chat Bot. It was created by Andrew Jenson for the
+Final Project of CS5001 in Fall 2023. The goal is to help Northeastern
+University students succeed in CS5002. It features quizzes and tips. You can
+interact with the chat bot by entering the numbered options displayed in
+between brackets (e.g [0]). Enter a number from the option(s) below:
+   [0] - Menu
+
+
+🤖 Enter a number:
+🤖 Exiting Help, returning to Menu.
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+🤖 Nice chatting with you...
+🤖 Goodbye from the CS5002 Chat Bot! 👋

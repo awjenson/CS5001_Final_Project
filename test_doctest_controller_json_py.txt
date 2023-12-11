@@ -1,0 +1,35 @@
+andrewjenson@Andrews-MBP CS5001_Final_Project % /usr/local/bin/python3 /Users/andrewjenson/Desktop/1_Northeastern/CS5001/CS5001_Final_Project/controller_json.py
+Trying:
+    file_path = "model_quizzes.json"
+Expecting nothing
+ok
+Trying:
+    python_dictionary = read_from_json_file(file_path)
+Expecting nothing
+ok
+Trying:
+    isinstance(python_dictionary, dict)
+Expecting:
+    True
+ok
+Trying:
+    len(python_dictionary) > 0
+Expecting:
+    True
+ok
+Trying:
+    file_path = "file_does_not_exist.json"
+Expecting nothing
+ok
+Trying:
+    python_dictionary = read_from_json_file(file_path)
+Expecting:
+    ERROR. File not found: file_does_not_exist.json
+ok
+1 items had no tests:
+    __main__
+1 items passed all tests:
+   6 tests in __main__.read_from_json_file
+6 tests in 2 items.
+6 passed and 0 failed.
+Test passed.

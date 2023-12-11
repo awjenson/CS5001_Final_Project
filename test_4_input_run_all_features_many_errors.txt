@@ -1,0 +1,25 @@
+This is a test with many errors…
+help!
+0
+MENU
+0
+
+
+quiz
+1
+circuits
+1
+3
+3
+0
+Tips
+***
+2
+1
+next
+0
+0
+0
+0
+quit
+3
