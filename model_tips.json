@@ -1,0 +1,30 @@
+{
+    "General": {
+        "When watching the module videos, pause after they solve a new type of problem and try to solve one on your own. (The textbook often has example problems or you can slightly change the values of the problem from the video).": ["Next"],
+        "Before taking the class, read problem solving books first. Book recommendations include “Problem-Solving Strategies” by Arthur Engel or “The Art of Problem Solving, Vol. 1: The Basics” by Sandor Lehoczky and Richard Rusczyk.": ["Next"],
+        "Be aware that this class is probably unlike any other math class you have ever had before, so you should not expect the same practices that got you through earlier math classes to get you through this class.": ["Next"],
+        "TrevTutor and Kimberly Brehm on YouTube make good videos on discrete math.": ["Next"],
+        "Don’t fall behind on the coursework because the class can get very hard very fast.": ["Next"]
+    },
+    "Study Habits": {
+        "Study with other people and work through exercises with other people.": ["Next"],
+        "Do not study where there are distractions (e.g. bad lighting or noises).": ["Next"],
+        "Avoid dehydration.": ["Next"],
+        "Avoid hunger (and junk food).": ["Next"]
+    },
+    "Number Representations": {
+        "Numbers on computers are represented with just 0 and 1, using the binary or base 2 system.": ["Next"],
+        "A byte is an 8-bit binary number with leading zeros allowed.": ["Next"],
+        "There are 256 different bytes and they represent the integers from 0 (00000000) to 255 (11111111).": ["Next"]
+    },
+    "Circuits": {
+        "The basic logic gates are the AND, OR, and NOT gates. Other logic gates are NAND, NOR, XOR, and XNOR.": ["Next"],
+        "AND Gate: Given two inputs (A and B) which can each take on two values (0 or 1), there are four possible input pairs to the AND gate.": ["Next"],
+        "NOT Gate: Unlike the AND and OR gates, the NOT gate has only one input, and its output is simply the opposite of its input.": ["Next"]
+    },
+    "Logic": {
+        "Truth Tables: In logic, variables may take on one of two truth values (T or F), and these variables are manipulated and combined by various logical operators (e.g. AND, OR, and NOT).": ["Next"],
+        "Conjunction is a truth-functional connective similar to “and“ in English and is represented in symbolic logic as “∧“.": ["Next"],
+        "Two Boolean formulas are said to be logically equivalent if they have the same truth table, i.e., they always have the same truth values for any given input. For example, ¬(¬p) is logically equivalent to p.": ["Next"]
+    }
+}

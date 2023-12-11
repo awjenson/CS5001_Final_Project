@@ -1,0 +1,207 @@
+🤖 Greetings, human...
+🤖 Welcome to the CS5002 Chat Bot! 👋
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+
+
+HELP:
+
+
+This program is the CS5002 Chat Bot. It was created by Andrew Jenson for the
+Final Project of CS5001 in Fall 2023. The goal is to help Northeastern
+University students succeed in CS5002. It features quizzes and tips. You can
+interact with the chat bot by entering the numbered options displayed in
+between brackets (e.g [0]). Enter a number from the option(s) below:
+   [0] - Menu
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0
+🤖 Enter a number:
+🤖 Exiting Help, returning to Menu.
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+
+
+QUIZ:
+
+
+Select topic:
+   [0] - Number Representations
+   [1] - Circuits
+   [2] - Logic
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2
+🤖 Enter a number:
+🤖 OK. 👍 Here you go...
+
+
+CIRCUITS QUIZ:
+
+
+Question: 1 (of 3)
+
+Computer components are constructed from digital circuits which are constructed
+from ________ gates
+   [0] - light
+   [1] - logic
+   [2] - sound
+   [3] - stone
+
+
+🤖 Enter a number:
+🤖 WRONG. ❌ Correct answer was: Logic
+
+
+Question: 2 (of 3)
+
+Unlike the AND and OR gates, the NOT gate has only one input, and its output is
+simply the ________ of its input.
+   [0] - multiplication
+   [1] - opposite
+   [2] - repeat
+   [3] - same
+
+
+🤖 Enter a number:
+🤖 WRONG. ❌ Correct answer was: Opposite
+
+
+Question: 3 (of 3)
+
+An OR gate takes two inputs and is “on” so long as at least one of the inputs
+is ________.”
+   [0] - invisible
+   [1] - missing
+   [2] - off
+   [3] - on
+
+
+🤖 Enter a number:
+🤖 WRONG. ❌ Correct answer was: On
+🤖 DONE. 🏁 You answered 0 of 3 questions correctly (0%).
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+
+
+TIPS:
+
+
+Select topic:
+   [0] - General
+   [1] - Study Habits
+   [2] - Number Representations
+   [3] - Circuits
+   [4] - Logic
+
+
+🤖 Enter a number:
+🤖 OK. 👍 Here you go...
+
+
+STUDY HABITS TIPS:
+
+
+Tip: 1 (of 4)
+
+Study with other people and work through exercises with other people.
+   [0] - Next
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0
+🤖 Enter a number:
+
+
+Tip: 2 (of 4)
+
+Do not study where there are distractions (e.g. bad lighting or noises).
+   [0] - Next
+
+
+🤖 Enter a number:
+
+
+Tip: 3 (of 4)
+
+Avoid dehydration.
+   [0] - Next
+
+
+🤖 Enter a number:
+
+
+Tip: 4 (of 4)
+
+Avoid hunger (and junk food).
+   [0] - Next
+
+
+🤖 Enter a number:
+🤖 DONE. 🏁 You reviewed 4 of 4 tips (100%).
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+🤖 ERROR. 🚫 Enter a valid number: 0, 1, 2, 3
+🤖 Enter a number:
+🤖 Nice chatting with you...
+🤖 Goodbye from the CS5002 Chat Bot! 👋

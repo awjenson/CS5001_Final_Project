@@ -1,0 +1,179 @@
+🤖 Greetings, human...
+🤖 Welcome to the CS5002 Chat Bot! 👋
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+
+
+HELP:
+
+
+This program is the CS5002 Chat Bot. It was created by Andrew Jenson for the
+Final Project of CS5001 in Fall 2023. The goal is to help Northeastern
+University students succeed in CS5002. It features quizzes and tips. You can
+interact with the chat bot by entering the numbered options displayed in
+between brackets (e.g [0]). Enter a number from the option(s) below:
+   [0] - Menu
+
+
+🤖 Enter a number:
+🤖 Exiting Help, returning to Menu.
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+
+
+QUIZ:
+
+
+Select topic:
+   [0] - Number Representations
+   [1] - Circuits
+   [2] - Logic
+
+
+🤖 Enter a number:
+🤖 OK. 👍 Here you go...
+
+
+LOGIC QUIZ:
+
+
+Question: 1 (of 3)
+
+The AND operator is denoted by the symbol ____.
+   [0] - ∧
+   [1] - ∨
+   [2] - ≡
+   [3] - ⊕
+
+
+🤖 Enter a number:
+🤖 CORRECT! ✅
+
+
+Question: 2 (of 3)
+
+In logic, ________, also called the logical not is represented as ¬ (e.g. ¬A)
+or NOT (e.g. NOT A).
+   [0] - conjunction
+   [1] - correlation
+   [2] - disjunction
+   [3] - negation
+
+
+🤖 Enter a number:
+🤖 CORRECT! ✅
+
+
+Question: 3 (of 3)
+
+One of the boolean algebra laws is ________.
+   [0] - Criminal law
+   [1] - De Morgan’s law
+   [2] - Newton's Third Law of Motion
+   [3] - Tort law
+
+
+🤖 Enter a number:
+🤖 CORRECT! ✅
+🤖 DONE. 🏁 You answered 3 of 3 questions correctly (100%).
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+
+
+TIPS:
+
+
+Select topic:
+   [0] - General
+   [1] - Study Habits
+   [2] - Number Representations
+   [3] - Circuits
+   [4] - Logic
+
+
+🤖 Enter a number:
+🤖 OK. 👍 Here you go...
+
+
+LOGIC TIPS:
+
+
+Tip: 1 (of 3)
+
+Truth Tables: In logic, variables may take on one of two truth values (T or F),
+and these variables are manipulated and combined by various logical operators
+(e.g. AND, OR, and NOT).
+   [0] - Next
+
+
+🤖 Enter a number:
+
+
+Tip: 2 (of 3)
+
+Conjunction is a truth-functional connective similar to “and“ in English and is
+represented in symbolic logic as “∧“.
+   [0] - Next
+
+
+🤖 Enter a number:
+
+
+Tip: 3 (of 3)
+
+Two Boolean formulas are said to be logically equivalent if they have the same
+truth table, i.e., they always have the same truth values for any given input.
+For example, ¬(¬p) is logically equivalent to p.
+   [0] - Next
+
+
+🤖 Enter a number:
+🤖 DONE. 🏁 You reviewed 3 of 3 tips (100%).
+
+
+MENU:
+
+
+Enter a number from the option(s) below:
+   [0] - Help
+   [1] - Quiz
+   [2] - Tips
+   [3] - Quit
+
+
+🤖 Enter a number:
+🤖 Nice chatting with you...
+🤖 Goodbye from the CS5002 Chat Bot! 👋

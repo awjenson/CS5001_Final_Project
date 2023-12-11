@@ -1,0 +1,62 @@
+{
+    "Number Representations": {
+      "A ________ is an 8-bit binary number with leading zeros allowed.": [
+        "byte",
+        "yard",
+        "meter",
+        "mile"
+      ],
+      "This way of representing numbers (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) is called the decimal or ________ system.": [
+        "base 10",
+        "base 2",
+        "base 16",
+        "base 10,000"
+      ],
+      "Numbers on computers are represented with just ________ (bits), using the binary or base 2 system.": [
+        "0 and 1",
+        "1 and -1",
+        "dollars and cents",
+        "latitude and longitude"
+      ]
+    },
+    "Circuits": {
+      "Computer components are constructed from digital circuits which are constructed from ________ gates": [
+        "logic",
+        "sound",
+        "light",
+        "stone"
+      ],
+      "Unlike the AND and OR gates, the NOT gate has only one input, and its output is simply the ________ of its input.": [
+        "opposite",
+        "same",
+        "repeat",
+        "multiplication"
+      ],
+      "An OR gate takes two inputs and is “on” so long as at least one of the inputs is ________.”": [
+        "on",
+        "off",
+        "missing",
+        "invisible"
+      ]
+    },
+    "Logic": {
+      "The AND operator is denoted by the symbol ____.": [
+        "∧",
+        "∨",
+        "⊕",
+        "≡"
+      ],
+      "In logic, ________, also called the logical not is represented as ¬ (e.g. ¬A) or NOT (e.g. NOT A).": [
+        "negation",
+        "conjunction",
+        "disjunction",
+        "correlation"
+      ],
+      "One of the boolean algebra laws is ________.": [
+        "De Morgan’s law",
+        "Tort law",
+        "Newton's Third Law of Motion",
+        "Criminal law"
+      ]
+    }
+  }
